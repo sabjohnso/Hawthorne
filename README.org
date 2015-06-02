@@ -1,0 +1,4 @@
+#+TITLE:Hawthorne - A Template Library for Symbolic Computing
+
+* Status
+  Hawthorne is in the very earliest stages of development.
